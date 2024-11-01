@@ -1,0 +1,10 @@
+﻿My project/.vs
+My project/UserSettings
+My project/Temp
+*.vsconfig
+*.csproj
+*.sln
+My project/Logs
+My project/obj
+My project/Library
+My project/.vscode
